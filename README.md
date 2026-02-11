@@ -1,6 +1,7 @@
 # Forecasting-Euclid
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.09153-b31b1b.svg)](https://arxiv.org/abs/2510.09153)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18610864.svg)](https://doi.org/10.5281/zenodo.18610864)
 
 This repository contains all **scripts** and **Jupyter notebooks** used to forecast **Euclid’s scientific performance** by the end of its mission operations (Data Release 3).  It accompanies the paper [*Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). III. Inference and Forecasts*](https://arxiv.org/abs/2510.09153).
 
